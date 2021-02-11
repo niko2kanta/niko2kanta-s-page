@@ -11,9 +11,9 @@
 }
 
 .mdl-layout__title {
-  font-size: 14px;
+  font-size: 30px;
   text-align: center;
-  font-weight: 300;
+  font-weight: 700;
 }
 
 .is-compact .mdl-layout__title span {
@@ -167,4 +167,3 @@ footer {
   background-image: url(images/footer-background.png);
   background-size: cover;
 }
-
