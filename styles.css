@@ -109,12 +109,13 @@
 }
 
 img.article-image {
-  width: 100%;
+  width: 175%;
   height: auto;
+  margin: auto;
 }
 
 .portfolio-max-width {
-  max-width: 900px;
+  max-width: 1000px;
   margin: auto;
 }
 
@@ -169,4 +170,9 @@ footer {
 }
 body{
 　　-webkit-overflow-scrolling: touch;
+}
+
+.text-center {
+  text-align: center;
+  margin: auto;
 }
